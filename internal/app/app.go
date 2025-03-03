@@ -3,8 +3,8 @@ package app
 import (
 	"flag"
 	"fmt"
-	enums "generatorStructure/internal/config"
-	"generatorStructure/internal/services"
+	enums "github.com/Pashgunt/Strucutre-generator/internal/config"
+	"github.com/Pashgunt/Strucutre-generator/internal/services"
 )
 
 func Init() {

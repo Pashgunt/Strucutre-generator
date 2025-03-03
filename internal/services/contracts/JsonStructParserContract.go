@@ -1,6 +1,6 @@
 package contracts
 
-import "generatorStructure/internal/services"
+import "github.com/Pashgunt/Strucutre-generator/internal/services"
 
 type JsonStructParserContract interface {
 	Read() *services.JsonStructParser

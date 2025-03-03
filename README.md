@@ -1,4 +1,4 @@
-# Json to Golang Structure
+# Json to Golang Structure Generator
 
 This Go program is a tool for processing JSON files and converting their contents into data structures corresponding to
 Go types.

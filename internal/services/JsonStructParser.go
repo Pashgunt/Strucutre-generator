@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
-	"generatorStructure/internal/config"
+	"github.com/Pashgunt/Strucutre-generator/internal/config"
 	"io"
 	"os"
 	"regexp"

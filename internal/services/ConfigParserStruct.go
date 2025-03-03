@@ -1,7 +1,7 @@
 package services
 
 import (
-	"generatorStructure/internal/config"
+	"github.com/Pashgunt/Strucutre-generator/internal/config"
 	"slices"
 	"strings"
 )
